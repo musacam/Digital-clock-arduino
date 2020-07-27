@@ -1,5 +1,1 @@
-:Author: musacam
-:Email: {AuthorEmail}
-:Date: 27/07/2020
-:Revision: version#
-:License: Public Domain
+Digital clock designed by Arduino. Inspired from IKEA digital clock.
